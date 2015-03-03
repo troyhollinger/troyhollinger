@@ -93,7 +93,7 @@
 </div>
 
 <div id="copyright">
-	<p>ALL RIGHTS RESERVED &copy; 2014 TROY HOLLINGER</p>
+	<p>ALL RIGHTS RESERVED &copy; 2014 - <?php echo date('Y') ?>TROY HOLLINGER</p>
 </div>
 
 <?php include('footer.php') ;?>
